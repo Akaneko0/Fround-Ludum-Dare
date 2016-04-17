@@ -1,11 +1,11 @@
 /*
-** get_coords.c for get_coords.c in /home/roig_a/GAME
-** 
+** get_map.c for get_map.c in /home/roig_a/GAME/Fround-Ludum-Dare
+**
 ** Made by Antoine Roig
 ** Login   <roig_a@epitech.net>
-** 
-** Started on  Fri Jan 29 20:14:10 2016 Antoine Roig
-** Last update Sat Jan 30 20:58:52 2016 Tanguy LELIEVRE
+**
+** Started on  Sun Apr 17 15:44:38 2016 Antoine Roig
+** Last update Sun Apr 17 15:44:39 2016 Antoine Roig
 */
 
 #include "game.h"
