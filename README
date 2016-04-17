@@ -1,0 +1,17 @@
+0-> 0 is an obstacle and the border of the map
+1-> 1 is the Player
+2-> 2 is the tample where you have to bring the components
+3-> 3 is a component that you should bring to the tample
+4-> 4 is a fireball which run to the left then run to right if she encounter a 0 or a 2 or 3 or 4 or 5 or C
+5-> 5 is monste who run to the top then run to bottom if she encounter a 0 or a 2 or 3 or 4 or 5 or C
+6-> C is a hearth that gives you 1 more HP
+
+THE GAME :
+
+To moove yourself in the map, you have to use the arrows of your keyboard.
+Escape to leave the game.
+You have to bring the components to the tample to built it.
+You can only bring the components 1 by 1.
+You have 3 hp at the begining of the game.
+If a fireball or a monster touch you, you respawn where you began the game and if you got a component, you'll lost it and he will go back where you find it and you lost 1 hp.
+If your hp reach 0, you lost the game.
